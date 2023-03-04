@@ -1,7 +1,7 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# VoiceVox for Unity
 
+ローカルで立ち上げたVoiceVoxをUnityから叩いて音声の再生及びアセットとしての保存を行うことができます。
 # Demo
 
 # requirements
-* Unity 2022.2.0f1
+* Unity 2021.3.16f1
